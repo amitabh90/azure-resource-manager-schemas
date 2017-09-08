@@ -301,6 +301,7 @@
                   { "$ref": "http://schema.management.azure.com/schemas/2017-03-01/Microsoft.Network.json#/resourceDefinitions/loadBalancers" },
                   { "$ref": "http://schema.management.azure.com/schemas/2017-03-01/Microsoft.Network.json#/resourceDefinitions/networkSecurityGroups" },
                   { "$ref": "http://schema.management.azure.com/schemas/2017-03-01/Microsoft.Network.json#/resourceDefinitions/networkInterfaces" },
+                  { "$ref": "https://schema.management.azure.com/schemas/2017-03-01/Microsoft.Network.json#/resourceDefinitions/virtualNetworks/virtualNetworkPeerings"},
                   { "$ref": "http://schema.management.azure.com/schemas/2017-03-01/Microsoft.Network.json#/resourceDefinitions/routeTables" },
                   { "$ref": "http://schema.management.azure.com/schemas/2017-06-01/Microsoft.Network.json#/resourceDefinitions/publicIPAddresses" },
                   { "$ref": "http://schema.management.azure.com/schemas/2017-06-01/Microsoft.Network.json#/resourceDefinitions/virtualNetworks" },
